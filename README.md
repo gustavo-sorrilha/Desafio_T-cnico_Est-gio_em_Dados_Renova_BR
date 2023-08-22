@@ -1,11 +1,24 @@
+Como baixar o projeto
+    # Clonar o repositório 😀
+  $ git clone https://github.com/gustavo-sorrilha/Desafio_T-cnico_Est-gio_em_Dados_Renova_BR.git
+
+  # Entrar no repositório 💪
+  $ cd Desafio_T-cnico_Est-gio_em_Dados_Renova_BR
+
+  # Instalar o aplicativo para rodar a aplicação 📥
+    #Link para instalação do Visual Studio Code
+  $ https://code.visualstudio.com/download
+
+
+  # Instalar as dependências 📥
+  $ pip install pandas
+  $ pip install tabulate
+
+  # Iniciar o Projeto 🔥🔥
+  $ code . 
+
+
 Passo a Passo para Executar as Análises de Dados Eleitorais
-
-    Preparação:
-        Verifique se você possui o Python instalado em seu computador.
-
-    Instalação de Bibliotecas:
-        Abra o terminal ou prompt de comando.
-        Digite pip install pandas tabulate e pressione Enter para instalar as bibliotecas necessárias.
 
     Download e Organização de Dados:
         Baixe os arquivos CSV fornecidos, que contêm os dados das eleições municipais de 2020.
@@ -31,4 +44,4 @@ Passo a Passo para Executar as Análises de Dados Eleitorais
     Conclusão:
         Agora você completou com sucesso as análises de dados eleitorais!
 
-Nota: Certifique-se de que os nomes dos arquivos e caminhos no código estão corretos para que os dados sejam acessados. Se tiver alguma dúvida ou problema, consulte os comentários no código para obter esclarecimentos. Este guia foi elaborado considerando um examinador que pode ser tanto um leigo quanto alguém familiarizado com programação.
+Nota: Certifique-se de que os nomes dos arquivos e caminhos no código estão corretos para que os dados sejam acessados. O aplicativo é executável no Google Colab, porém apresenta atrasos ao processar arquivos CSV muito extensos. Este guia foi elaborado considerando um examinador que pode ser tanto um leigo quanto alguém familiarizado com programação.
