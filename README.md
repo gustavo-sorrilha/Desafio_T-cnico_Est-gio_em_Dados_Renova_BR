@@ -1,5 +1,5 @@
 Como baixar o projeto
-    # Clonar o repositório 😀
+  # Clonar o repositório 😀
   $ git clone https://github.com/gustavo-sorrilha/Desafio_T-cnico_Est-gio_em_Dados_Renova_BR.git
 
   # Entrar no repositório 💪
