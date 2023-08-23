@@ -3,7 +3,7 @@ Como baixar o projeto
   $ git clone https://github.com/gustavo-sorrilha/Desafio_T-cnico_Est-gio_em_Dados_Renova_BR.git
 
   # Entrar no repositório 💪
-  $ cd Desafio_T-cnico_Est-gio_em_Dados_Renova_BR
+  $ cd C:\Desafio_T-cnico_Est-gio_em_Dados_Renova_BR
 
   # Instalar o aplicativo para rodar a aplicação 📥
     #Link para instalação do Visual Studio Code
