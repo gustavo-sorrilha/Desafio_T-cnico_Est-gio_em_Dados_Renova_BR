@@ -41,4 +41,4 @@
     Conclusão:
         Agora você completou com sucesso as análises de dados eleitorais!
 
-Nota: Certifique-se de que os nomes dos arquivos e caminhos no código estão corretos para que os dados sejam acessados. O aplicativo é executável no Google Colab, porém apresenta atrasos ao processar arquivos CSV muito extensos. Este guia foi elaborado considerando um examinador que pode ser tanto um leigo quanto alguém familiarizado com programação.
+Nota: Certifique-se de que os nomes dos arquivos e caminhos no código estão corretos para que os dados sejam acessados. Este guia foi elaborado para auxiliar aqueles que estão menos familiarizados com programação. O aplicativo é executável no Google Colab, porém, pode apresentar atrasos ao processar arquivos CSV muito extensos.
