@@ -1,20 +1,20 @@
-Como baixar o projeto
-  # Clonar o repositório 😀
+# Como baixar o projeto
+  Clonar o repositório 
   $ git clone https://github.com/gustavo-sorrilha/Desafio_T-cnico_Est-gio_em_Dados_Renova_BR.git
 
-  # Entrar no repositório 💪
+  Entrar no repositório 
   $ cd C:\Desafio_T-cnico_Est-gio_em_Dados_Renova_BR
 
-  # Instalar o aplicativo para rodar a aplicação 📥
+  Instalar o aplicativo para rodar a aplicação 
     #Link para instalação do Visual Studio Code
   $ https://code.visualstudio.com/download
 
 
-  # Instalar as dependências 📥
+  Instalar as dependências 
   $ pip install pandas
   $ pip install tabulate
 
-  # Iniciar o Projeto 🔥🔥
+  Iniciar o Projeto 
   $ code . 
 
 
@@ -37,9 +37,6 @@ Passo a Passo para Executar as Análises de Dados Eleitorais
     Interpretação dos Resultados:
         Leia os resultados exibidos para compreender as conclusões tiradas dos dados eleitorais.
         Tabelas formatadas ajudam na visualização organizada dos resultados.
-
-    Personalização Adicional (Opcional):
-        Se desejar explorar outras análises, siga os comentários no código para orientações.
 
     Conclusão:
         Agora você completou com sucesso as análises de dados eleitorais!
